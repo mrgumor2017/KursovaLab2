@@ -1,0 +1,5 @@
+# ninja log v5
+5	704	1728828055361665036	CMakeFiles/app.dir/SchoolClass.cpp.o	dfa2a297a2b8d5e3
+1	761	1728828055420665561	CMakeFiles/app.dir/main.cpp.o	8cf9df99c4add36c
+8	821	1728828055481666104	CMakeFiles/app.dir/SchoolDatabase.cpp.o	ae95909aa37f53e5
+821	1034	1728828055693667990	app	5dfbc6941c76add9
